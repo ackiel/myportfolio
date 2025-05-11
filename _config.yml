@@ -1,4 +1,8 @@
 title: Muhammad Sidratul Muntaha Al Mutawakkil Alallah
 #logo: /assets/img/
+author:
+  name: Evan Will
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
 show_downlaods: true
 theme: jekyll-theme-minimal
