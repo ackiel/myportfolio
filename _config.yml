@@ -1,8 +1,15 @@
-title: Akil's Portfolio
-#logo: /assets/img/
-author:
-  name: Muhammad Sidratul Muntaha Al Mutawakkil Alallah
-  email: m.sidratul.muntaha92@gmail.com
-description: "this is Muhammad Sidratul Muntaha Al Mutawakkil Alallah's portfolio."
-show_downlaods: true
-theme: jekyll-theme-minimal
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/example" # the subpath of your site, e.g. /blog/
+url: "http://jekyll.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
