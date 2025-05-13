@@ -60,6 +60,7 @@ a:hover small {
 }
 
 .baru {
+  display: flex;
   justify-content: center;
 }
 
