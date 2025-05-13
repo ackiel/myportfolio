@@ -1,8 +1,8 @@
 title: My Portfolio
 logo: /assets/img/foto_akil_circle.png
-author:
-  name: Muhammad Sidratul Muntaha Al Mutawakkil Alallah
-  email: m.sidratul.muntaha92@gmail.com
+#author:
+  #name: Muhammad Sidratul Muntaha Al Mutawakkil Alallah
+  #email: m.sidratul.muntaha92@gmail.com
 description: "This is Muhammad Sidratul Muntaha Al Mutawakkil Alallah's portfolio."
 show_downlaods: true
 theme: jekyll-theme-minimal
