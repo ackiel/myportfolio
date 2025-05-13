@@ -165,7 +165,7 @@ header ul li + li + li {
 
 header ul a strong {
   font-size:14px;
-  display:block;
+  display:inline;
   color:#222;
 }
 
