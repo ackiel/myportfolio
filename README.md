@@ -1,14 +1,15 @@
-# Data Enthusiast | Technical Writer | Teacher 
+## Data Enthusiast | Technical Writer | Teacher 
+
 
 ### EDUCATION
 - (B.S) Mathematics, Sepuluh Nopember Institute of Technology, Surabaya, East Java, Indonesia
 - (Master) Information Technology, University of Indonesia, Salemba, DKI Jakarta, Indonesia
 
-### SKILLS & Tools
+### SKILLS & TOOLS
 Math | UML | Knowledge Management | Python | SQL | Technical Writing | Teaching | Manual Testing | API Testing | Scrum | 
 Ms. Office | Postman | Jira/Trello | Google Collab | Balsamiq | Canva | Tableu | Adobe XD |      
 
-### PORTFOLIO & PUBLICATIONS
+### PORTFOLIOS & PUBLICATIONS
 - [Feature Engineering on Housing Dataset](https://medium.com/@m.sidratul.muntaha92/feature-engineering-on-housing-dataset-0d2ba7807d79)
 - Simple GPT Chatbot
 - Job Application Test in Turing
@@ -18,7 +19,7 @@ Ms. Office | Postman | Jira/Trello | Google Collab | Balsamiq | Canva | Tableu |
 - [Analyzing The Relevance of Inhibiting Factors in Implementing ISO 27001 Using the DEMATEL Method (Case Study: Electronic Procurement Service Center (LPSE) of the Ministry of Finance, Republic of Indonesia)](https://ieeexplore.ieee.org/document/9161084)
 - [Mining Fuzzy Time Interval Sequential Pattern on Event Log Data using FP-Growth-Prefix-Span Algorithm](https://pubs.aip.org/aip/acp/article-abstract/1746/1/020065/1020399/Mining-fuzzy-time-interval-sequential-pattern-on?redirectedFrom=PDF)
 
-### WORKSHOP & COURSE
+### WORKSHOPS & COURSES
 - Digital Skill Fair 39.0 Dibimbing.id (2025)
 - Data Analytics Mini Course REVOU (2023)
 - AWS re/start by Orbit Academy (2022)
