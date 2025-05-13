@@ -62,6 +62,7 @@ a:hover small {
 .baru {
   display: flex;
   justify-content: center;
+  margin-right: 5px;
 }
 
 blockquote {
